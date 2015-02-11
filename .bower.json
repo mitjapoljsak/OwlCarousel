@@ -1,0 +1,20 @@
+{
+  "name": "OwlCarousel",
+  "homepage": "https://github.com/OwlFonk/OwlCarousel",
+  "main": [
+    "owl-carousel/owl.carousel.css",
+    "owl-carousel/owl.theme.css",
+    "owl-carousel/owl.carousel.js"
+  ],
+  "version": "1.23",
+  "_release": "1.23",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.23",
+    "commit": "f79d5de318f2848cf24b547ec1d48d44e55b2846"
+  },
+  "_source": "git://github.com/OwlFonk/OwlCarousel.git",
+  "_target": "~1.23",
+  "_originalSource": "OwlCarousel",
+  "_direct": true
+}
